@@ -17,7 +17,6 @@ body{
   .time-slot {
     text-align: right;
     background-color: white;
-    color: #696969;
     padding-right: 10px;
     width: 100px;
     display: flex;
@@ -28,7 +27,9 @@ body{
   }
   
   .time-slot span{
-    font-size: 200%;
+    font-size: 150%;
+    font-weight: bold;
+    color: #696969;
   }
 
   .schedule {
